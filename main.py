@@ -1,6 +1,7 @@
 # main.py
 import os
 import re
+import regex as re
 import json
 import asyncio
 import logging
